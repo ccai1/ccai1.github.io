@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Cathy
 middle_name:
 last_name: Cai
-email: cathycai626@gmail.com
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to Cathy's website!
 footer_text: >
@@ -81,7 +81,7 @@ flickr_id: # your flickr id
 github_username: ccai1 # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
