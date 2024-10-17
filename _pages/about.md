@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-  I work at Cartesia AI, where I research and build SSM models for speech. 
+  I work at Cartesia AI, where I research and build SSMs for speech. 
   
   I recently graduated from MIT with my BS in math and computer science and MEng in computer science. At MIT, I worked at the Broad Institute on using machine learning to find new <a href='https://en.wikipedia.org/wiki/Synthetic_lethality'>synthetic lethality</a> pairs.
