@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='https://www.linkedin.com/in/cai-cathy/'>LinkedIn.</a> <a href='https://scholar.google.com/citations?user=eM1aI8wAAAAJ&hl=en'>Google Scholar.</a><a href='https://x.com/cathycai26'>Twitter.</a>
 subtitle: Cartesia AI | MIT CS + Math 
