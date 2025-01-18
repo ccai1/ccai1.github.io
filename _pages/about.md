@@ -7,7 +7,7 @@ subtitle: Cartesia AI | MIT CS + Math
 
 profile:
   align: right
-  image: me.png
+  image: me_updated.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <center><p>Currently in SF 🌊</p>
