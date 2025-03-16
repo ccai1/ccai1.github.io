@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     padding-left: 60px;
+    padding-right: 60px;
     background-color: #fbf7f4;
     color: #450506;
     text-align: left;
@@ -32,6 +33,7 @@ main {
 @media (max-width: 600px) {
     body {
         padding-left: 20px; /* Adjust padding for smaller screens */
+        padding-right: 20px;
     }
 }
 
