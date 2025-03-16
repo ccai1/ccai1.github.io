@@ -29,6 +29,12 @@ main {
 
 }
 
+@media (max-width: 600px) {
+    body {
+        padding-left: 20px; /* Adjust padding for smaller screens */
+    }
+}
+
 .profile {
     max-width: 800px;
     /* text-align: left; */
