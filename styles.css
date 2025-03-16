@@ -57,3 +57,8 @@ main {
 a {
     color: #f46308;
 }
+
+::selection {
+    background-color: rgba(244, 99, 8, 0.5); /* Highlight background color */
+    color: #ffffff; /* Highlight text color */
+}
